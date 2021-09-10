@@ -8,7 +8,8 @@ Le dossier assets ce met au même niveau que le dossier lib que vous allez place
 
 Tâche non fini :
 
-La redirection pour recommancer le quizz si nous le souhaitons ( en plus par rapport au tp ) 
+La redirection pour recommancer le quizz si nous le souhaitons ( en plus par rapport au tp )
+Les assets n'arrivent pas à charger sur l'émulateur web ( en plus par rapport au tp )
 
 
 En cas de besoin je reste à votre disposition.
