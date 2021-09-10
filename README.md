@@ -1,4 +1,6 @@
-# TP-Dark-Flutter
+# TP-Quizz-Dark-Flutter
+
+Nom de notre TP : tp_quizz
 
 TP Réalisé par Loïc Thibault et Antoine Warnier
 
